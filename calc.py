@@ -5,7 +5,7 @@ def kivonas(x, y):
     pass
 
 def szorzas(x, y):
-    pass
+    return x*y
 
 def osztas(x, y):
     pass
