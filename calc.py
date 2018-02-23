@@ -8,7 +8,7 @@ def szorzas(x, y):
     return x*y
 
 def osztas(x, y):
-    pass
+    return x/y
 
 def negyzet(x):
     pass
