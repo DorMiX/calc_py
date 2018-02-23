@@ -2,7 +2,7 @@ def osszeadas(x, y):
     pass
 
 def kivonas(x, y):
-    pass
+    return x-y
 
 def szorzas(x, y):
     return x*y
